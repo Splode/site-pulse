@@ -1,0 +1,29 @@
+{
+  "options": {
+    "checkInterval": 9e5,
+    "logDir": "logs",
+    "logFiletype": ".txt",
+    "maxFileSize": 5e6
+  },
+  "mailer": {
+    "from": "\"Christopher Murphy\" <christopher@expression.design>",
+    "to": "trainstationblues@gmail.com"
+  },
+  "sites": [{  
+      "url": "https://piranhapump.com",
+      "log": "piranha-pump"
+    },
+    {
+      "url": "http://christopherianmurphy.com",
+      "log": "christopherianmurphy"
+    },
+    {
+      "url": "https://sensiblewords.com",
+      "log": "sensible-words"
+    },
+    {
+      "url": "http://film-sack-jukebox.com",
+      "log": "film-sack-jukebox"
+    }
+  ]
+}

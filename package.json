@@ -1,0 +1,26 @@
+{
+  "name": "site-pulse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Christopher Murphy",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "nodemailer": "^4.1.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "chalk": "^2.1.0",
+    "eslint": "^4.7.2",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.2.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
