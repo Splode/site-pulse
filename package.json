@@ -10,17 +10,17 @@
   "author": "Christopher Murphy",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.18.1",
-    "nodemailer": "^4.1.1",
+    "moment": "^2.19.3",
+    "nodemailer": "^4.4.0",
     "request": "^2.83.0"
   },
   "devDependencies": {
-    "chalk": "^2.1.0",
-    "eslint": "^4.7.2",
+    "chalk": "^2.3.0",
+    "eslint": "^4.12.1",
     "eslint-config-standard": "^10.2.1",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-node": "^5.2.0",
-    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1"
   }
 }
